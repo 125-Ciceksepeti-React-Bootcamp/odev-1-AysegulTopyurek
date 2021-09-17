@@ -6,7 +6,7 @@ Bu repo yoğun iş tempomdan bulduğum fırsatlarda vakit ayırarak yaptığım 
 ## Installation
 Öncelikle projeyi clonelayalım.
 
-`git clone https://github.com/AysegulTopyurek/125-Ciceksepeti-React-Bootcamp-odev-1.git
+`git clone https://github.com/125-Ciceksepeti-React-Bootcamp/odev-1-AysegulTopyurek.git
 
 ## Usage
 
